@@ -1,6 +1,6 @@
 <div class="Nvidia">
   <a>
-    <img src="https://media.giphy.com/media/nJGvpmtxje05INbZSo/giphy.gif" alt="eRobIsaac2" style={{ width: '600', height: 'auto' }} />
+    <img src="https://media.giphy.com/media/nJGvpmtxje05INbZSo/giphy.gif" alt="eRobIsaac2" style={{ width: '1100', height: 'auto' }} />
   </a>
 </div>
 
