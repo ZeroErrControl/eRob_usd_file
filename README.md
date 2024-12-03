@@ -7,7 +7,7 @@ Isaac Sim is a software platform built from the ground up to support the increas
 
 <div class="Nvidia">
   <a>
-    <img src="/img/hero_shot.png" alt="Nvidia1" style={{ width: '1000', height: 'auto' }} />
+    <img src="[/img/Nvidia1.png](https://cdn-fusion.imgcdn.store/i/2024/5a44d4543b208204.png)" alt="Nvidia1" style={{ width: '1000', height: 'auto' }} />
   </a>
 </div>
 
@@ -31,7 +31,7 @@ For example, my path is `D:\Isaac_sim\OMNIVERSE\pkg\isaac-sim-4.1.0`.
 
 <div class="Nvidia">
   <a>
-    <img src="/img/Nvidia1.png" alt="Nvidia2" style={{ width: '1000', height: 'auto' }} />
+    <img src="https://cdn-fusion.imgcdn.store/i/2024/fedd551b11a76855.png" alt="Nvidia2" style={{ width: '1000', height: 'auto' }} />
   </a>
 </div>
 
@@ -46,7 +46,7 @@ python.bat -m pip install pyQT5
 
 ## Launching Isaac Sim via Python and Using eRob's Model
 
-Here you can download [`eRob's usd file`](https://github.com/wdb-123/eRob_usd) and modify the path in your `Python code`.
+Here you can download [`eRob's usd file`](https://github.com/ZeroErrControl/eRob_usd_file) and modify the path in your `Python code`.
 
 ```python
 # Start Isaac Sim; required for Standalone mode
