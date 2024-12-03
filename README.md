@@ -7,7 +7,7 @@ Isaac Sim is a software platform built from the ground up to support the increas
 
 <div class="Nvidia">
   <a>
-    <img src="[/img/Nvidia1.png](https://cdn-fusion.imgcdn.store/i/2024/5a44d4543b208204.png)" alt="Nvidia1" style={{ width: '1000', height: 'auto' }} />
+    <img src="https://cdn-fusion.imgcdn.store/i/2024/5a44d4543b208204.png" alt="Nvidia1" style={{ width: '1000', height: 'auto' }} />
   </a>
 </div>
 
