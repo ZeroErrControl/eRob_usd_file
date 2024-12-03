@@ -132,6 +132,6 @@ while True:
 
 <div class="Nvidia">
   <a>
-    <img src="/img/eRobIsaac2.gif" alt="eRobIsaac2" style={{ width: '600', height: 'auto' }} />
+    <img src="https://media.giphy.com/media/nJGvpmtxje05INbZSo/giphy.gif" alt="eRobIsaac2" style={{ width: '600', height: 'auto' }} />
   </a>
 </div>
